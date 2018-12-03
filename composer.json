@@ -1,0 +1,19 @@
+{
+    "name": "xuanthulabnet/latinurl",
+    "description": "Convert VietNam Url",
+    "authors": [
+        {
+            "name": "XTLAB",
+            "email": "xuanthulab.net@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.24"
+    },
+    "autoload": {
+        "psr-4": {
+            "XuanthuLab\\": "src/"
+        }
+    }
+
+}
